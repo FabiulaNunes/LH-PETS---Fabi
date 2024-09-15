@@ -1,0 +1,27 @@
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\bin\Debug\net8.0\appsettings.json
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\bin\Debug\net8.0\LH PETS - Fabi.exe
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\bin\Debug\net8.0\LH PETS - Fabi.deps.json
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\bin\Debug\net8.0\LH PETS - Fabi.runtimeconfig.json
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\bin\Debug\net8.0\LH PETS - Fabi.dll
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\bin\Debug\net8.0\LH PETS - Fabi.pdb
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\LH PETS - Fabi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\LH PETS - Fabi.AssemblyInfoInputs.cache
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\LH PETS - Fabi.AssemblyInfo.cs
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\LH PETS - Fabi.csproj.CoreCompileInputs.cache
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\LH PETS - Fabi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\staticwebassets\msbuild.LH PETS - Fabi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\staticwebassets\msbuild.build.LH PETS - Fabi.props
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LH PETS - Fabi.props
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LH PETS - Fabi.props
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\scopedcss\bundle\LH PETS - Fabi.styles.css
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\LH PETS - Fabi.dll
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\refint\LH PETS - Fabi.dll
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\LH PETS - Fabi.pdb
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\LH PETS - Fabi.genruntimeconfig.cache
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\ref\LH PETS - Fabi.dll
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\bin\Debug\net8.0\LH PETS - Fabi.staticwebassets.runtime.json
+C:\Users\fabiu\OneDrive\Área de Trabalho\LH PETS - Fabi\obj\Debug\net8.0\LH PETS - Fabi.csproj.AssemblyReference.cache

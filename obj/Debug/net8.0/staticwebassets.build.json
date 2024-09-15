@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VjJlRnpZJGvz0itLCpLkVsVv5YCdHBfwt5BihHqyngg=",
+  "Source": "LH PETS - Fabi",
+  "BasePath": "_content/LH PETS - Fabi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LH PETS - Fabi\\wwwroot",
+      "Source": "LH PETS - Fabi",
+      "ContentRoot": "C:\\Users\\fabiu\\OneDrive\\Área de Trabalho\\LH PETS - Fabi\\wwwroot\\",
+      "BasePath": "_content/LH PETS - Fabi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\fabiu\\OneDrive\\Área de Trabalho\\LH PETS - Fabi\\wwwroot\\index.html",
+      "SourceId": "LH PETS - Fabi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fabiu\\OneDrive\\Área de Trabalho\\LH PETS - Fabi\\wwwroot\\",
+      "BasePath": "_content/LH PETS - Fabi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
